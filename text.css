@@ -1,0 +1,35 @@
+body{
+	width:1300px;
+	margin-left:auto;
+	margin-right:auto;
+	font-size:small;
+	position: relative;
+	font-family: "·ÂËÎ";
+	}
+h3,h4{
+	display:inline;;
+	}
+.type2{
+	text-align: right;
+	}
+div.type1{
+	text-align:center;
+	margin-top:20px;
+	position: absolute;
+	margin-left:auto;
+	margin-right:auto;
+	line-height:30px;
+	left: 387px;
+	width: 562px;
+	top: 33px;
+	}
+	a{
+		color:#03F;
+		}
+
+a.g2{
+border-bottom:#666 solid 1px;
+text-decoration:none;
+color:#666;
+	}
+
